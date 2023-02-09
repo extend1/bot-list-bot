@@ -1,0 +1,16 @@
+{
+  "token": "OTM2NjQyMzA4MDQ3MjUzNTE1.YfQKIA.ItA_zZ_87TPUGx3QgGJz-N0v-EY",
+  "authToken": "ODY1MjUyNjYwNDg3NjUxMzY4.YfQWqA.nJOC2E_9OI8q2fSyyFrKoBddptY",
+  "siteKey": "6Lef5iQTAAAAAKeIvIY-DeexoO3gj7ryl9rLMEnn",
+  "prefix": "+",
+  "developer": "861438408953036811",
+  "owners": ["861438408953036811", "630332308037173259","597472879193358356"],
+  "mongoLink": "mongodb+srv://Vesper:!Vesper31@cluster0.snd4q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "logChannel": "928726193979686932",
+  "staffRole": "842503023367290890",
+  "ownerRole": "928726159737360404",
+  "developerRole": "842503027323699210",
+  "userRole": "852186227662389288",
+  "botRole": "842503030096265266",
+  "serverLimit": 15
+}  
